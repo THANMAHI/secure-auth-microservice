@@ -1,0 +1,2 @@
+# This command creates the file for you
+echo "*.sh text eol=lf" > .gitattributes
