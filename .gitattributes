@@ -1,2 +1,2 @@
-# This command creates the file for you
-echo "*.sh text eol=lf" > .gitattributes
+# Force Unix line endings for shell scripts
+*.sh text eol=lf
